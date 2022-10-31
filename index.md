@@ -1,6 +1,6 @@
 ---
-# GeoSpatialSense
 ---
+# GeoSpatialSense
 All things spatial 
 
 [Link to another page](./another-page.html).
@@ -10,5 +10,5 @@ All things spatial
 ![GeoSpatialSense](/assets/images/logo.png)
 
 ```
-
+copyright geospatialsense 2022
 ```
