@@ -1,5 +1,7 @@
 ---
 ---
+![GeoSpatialSense](/assets/images/logo.png)
+
 # GeoSpatialSense
 All things spatial 
 
@@ -7,7 +9,7 @@ All things spatial
 
 
 
-![GeoSpatialSense](/assets/images/logo.png)
+
 
 ```
 copyright geospatialsense 2022
