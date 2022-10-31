@@ -1,14 +1,17 @@
 ---
-![GeoSpatialSense](/images/logo.png)
+
 ---
 
-# GeoSense
+# GeoSpatialSense
 
-Anything spatial. 
+All things spatial 
 
 [Link to another page](./another-page.html).
 
 
+
+![GeoSpatialSense](/images/logo.png)
+
 ```
-The final element.
+
 ```
